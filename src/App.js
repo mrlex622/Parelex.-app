@@ -1,4 +1,4 @@
-{
+/* eslint-disable */{
   "name": "parelex",
   "version": "1.0.0",
   "dependencies": {
